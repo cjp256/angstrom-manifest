@@ -52,4 +52,6 @@
   <project remote="yocto" name="meta-qt4" path="layers/meta-qt4"/>
   <project remote="yocto" name="meta-virtualization" path="layers/meta-virtualization"/>
 
+  <project remote="github" name="cjp256/meta-experimental" path="layers/meta-experimental"/>
+
 </manifest>
